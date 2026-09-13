@@ -25,6 +25,8 @@ This project analyzes a global freelancer dataset using Excel and Power BI.
 The Power BI dashboard provides interactive visualizations and KPIs for freelancer analysis.
 
 <img width="584" height="327" alt="image" src="https://github.com/user-attachments/assets/fa4b43d6-cdaa-46e5-a06e-e4b58c6ca4db" />
+<img width="581" height="331" alt="image" src="https://github.com/user-attachments/assets/37316fad-d1c1-46b7-8d7b-3af905a71de3" />
+<img width="590" height="331" alt="image" src="https://github.com/user-attachments/assets/c6fa64e9-e758-459e-9d93-884615dfac61" />
 
 ## Conclusion
 The project provides useful insights into freelancer distribution, engagement,
